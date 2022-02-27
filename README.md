@@ -1,5 +1,9 @@
 ### Hi 👋 This is Hamza Shabbir 😃
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=hamzashabbir11&show_icons=true&theme=tokyonight" 
+/>
+
 <!--
 **hamzashabbir11/hamzashabbir11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
