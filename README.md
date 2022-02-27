@@ -1,4 +1,4 @@
-### Hi 👋 This is Hamza Shabbir 😃
+### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Hamza Shabbir 😃
 
 ![](https://komarev.com/ghpvc/?username=hamzashabbir11&label=PROFILE+VIEWS)
 
