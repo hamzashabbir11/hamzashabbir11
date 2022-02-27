@@ -1,6 +1,6 @@
 ### Hi 👋 This is Hamza Shabbir 😃
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=hamzashabbir11&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning Data Science and Data Analytics 📈
 - 👯 I’m looking to collaborate on Python Projects with Data Analysis
