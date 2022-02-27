@@ -1,8 +1,15 @@
 ### Hi 👋 This is Hamza Shabbir 😃
 
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning Data Science and Data Analytics 📈
+- 👯 I’m looking to collaborate on Python Projects with Data Analysis
+
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=hamzashabbir11&show_icons=true&theme=tokyonight" 
 />
+
 
 <!--
 **hamzashabbir11/hamzashabbir11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
