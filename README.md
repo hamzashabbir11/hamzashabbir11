@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Data Science and Data Analytics 📈
 - 👯 I’m looking to collaborate on Python Projects with Data Analysis
-- 📫 Fell free to reach [me](hamzashabbir447@gmail.com) 📧
+- 📫 Fell free to reach me at <hamzashabbir447@gmail.com> 📧
 - ⚡ Fun fact: I love to read 📙and hang out with friends for ☕
 
 
