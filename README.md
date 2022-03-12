@@ -14,11 +14,11 @@
 
 
 <a href="https://twitter.com/itshamza_shabir">
-  <img align="left" alt="Hamza Shabbir | Twitter" width="45px" src="https://img.icons8.com/color/144/000000/twitter--v1.png" /> 
+  <img align="left" alt="Hamza Shabbir | Twitter" width="50px" src="https://img.icons8.com/color/144/000000/twitter--v1.png" /> 
 </a>
 
 <a href="https://www.linkedin.com/in/hamzashabbir1/">
-  <img align="left" alt="Hamza's LinkdeIN" width="45px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  <img align="left" alt="Hamza's LinkdeIN" width="45px" src="https://img.icons8.com/color/144/000000/linkedin.png" />
 </a>
 
 <!--
