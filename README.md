@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=hamzashabbir11&label=PROFILE+VIEWS)
 
-- 🌱 I’m currently working on Python Projects 📈
-- 👯 I’m looking to collaborate on Python Projects. 
-- 📫 Fell free to reach me at <hamzashabbir447@gmail.com> 📧
-- ⚡ Fun fact: I love to read 📙and hang out with friends for ☕
+- 🌱 **I’m currently working on Python Projects 📈**
+- 👯 **I’m looking to collaborate on Python Projects. **
+- 📫 **Fell free to reach me at <hamzashabbir447@gmail.com>** 📧
+- ⚡ **Fun fact: I love to read 📙and hang out with friends for ☕**
 
 
 <img 
