@@ -1,5 +1,7 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> This is Hamza Shabbir 😃
 
+![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo2LCJub3NlIjoxMiwibW91dGgiOjExLCJleWVzIjo4LCJleWVicm93cyI6OCwiZ2xhc3NlcyI6MywiaGFpciI6NDQsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiJyZ2JhKDI1NSwgMCwgMCwgMCkiLCJzaGFwZSI6Im5vbmUifQ==)
+
 ![](https://komarev.com/ghpvc/?username=hamzashabbir11&label=PROFILE+VIEWS)
 
 - 🌱 **I’m currently working on Python Projects 📈**
