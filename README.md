@@ -13,6 +13,8 @@
 
 ![](https://komarev.com/ghpvc/?username=hamzashabbir11&label=PROFILE+VIEWS)
 
+<br>
+
 - 🌱 **I’m currently working on Python Projects 📈**
 - 👯 **I’m looking to collaborate on Python Projects on AWS.** :cloud:
 - 📫 **Fell free to reach me at <hamzashabbir447@gmail.com>** 📧
@@ -23,6 +25,11 @@
 ```python
 print('python','C','AWS')
 ```
+
+<br>
+<br>
+<br>
+<br>
 
 
 <img 
@@ -35,7 +42,7 @@ print('python','C','AWS')
 </a>
 
 <a href="https://www.linkedin.com/in/hamzashabbir1/">
-  <img align="left" alt="Hamza's LinkdeIN" width="45px" src="https://img.icons8.com/color/144/000000/linkedin.png" />
+  <img align="left" alt="Hamza's Linkedin" width="45px" src="https://img.icons8.com/color/144/000000/linkedin.png" />
 </a>
 
 <!--
